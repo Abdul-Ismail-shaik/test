@@ -1,6 +1,0 @@
-{{#user}}
-Name: Abdul Ismail Shaik
-Skills: HTML, CSS, JS, Bootstrap, Git , node.js , React.js ,Mongodb.
-Email: ismailsha.c@gmail.com
-
-{{/user}}
